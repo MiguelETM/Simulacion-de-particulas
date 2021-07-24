@@ -10,7 +10,9 @@ Simulación de un conjunto de partículas que se mueven bajo la acción de poten
  <p align="center">
   <img src="imagenes/lj.png" width="350" title="hover text">
 </p>
+
  Este potencial tiene un comprtamiento interezante dado que este atractivo a grandes distancias y es repulsivo a corsas distancias.
+ 
  
  La simulación se realiza en 3 etapas distintas:
  1. Se genera una configuración inicial generando una determinada cantidad de particulas en una caja cuadrada de lado L.
